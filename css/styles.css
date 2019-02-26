@@ -238,9 +238,6 @@ nav h1 a {
 
 @media only screen and (max-width: 425px) {
     /* Styles */
-    #restaurants-list .restaurant-img {
-        display: none;
-    }
     #restaurants-list li {
         min-height: 100px;
     }
